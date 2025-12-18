@@ -7,11 +7,10 @@ export default function Page() {
         My Portfolio
       </h1>
       <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+        {`  Hi! I am Nicole Okur. I am currently a junior student at Villanova University. 
+          I am majoring in computer engineering and minoring in computer science and electrical
+          engineering. I enjoy getting involved on campus in clubs such as IEEE, Chi Omega, and 
+          the Society of Women Engineers. Thank you for visiting my website!`}
       </p>
       <div className="my-8">
         <BlogPosts />
